@@ -4,7 +4,7 @@
 This project, developed as an Honors Contract Project for Calculus III, is a web-based Partial Derivative Calculator. It leverages Python's symbolic mathematics capabilities to provide an intuitive and accessible tool for calculating partial derivatives of multivariable functions.
 
 ## Key Features
-- **Web-based Interface**: Built using Gradio, a Python library for creating web-based machine learning applications, ensuring easy accessibility without any installation requirements.
+- **Web-based Code and Interface**: Built using Gradio, a Python library for creating web-based machine learning applications, and Google Colab ensuring easy accessibility without any installation requirements.
 - **Multi-variable Support**: Capable of handling functions with multiple variables.
 - **Symbolic Computation**: Utilizes SymPy, a Python library for symbolic mathematics, to perform accurate symbolic differentiation.
 - **Interactive Visualization**: Provides a user-friendly interface for input and display of results.
