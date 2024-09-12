@@ -3,6 +3,9 @@
 ## Project Overview
 This project, developed as an Honors Contract Project for Calculus III, is a web-based Partial Derivative Calculator. It leverages Python's symbolic mathematics capabilities to provide an intuitive and accessible tool for calculating partial derivatives of multivariable functions.
 
+Available online on Google Colabs to make it easily accessible for students in my Calculus 3 class. 
+https://colab.research.google.com/drive/1ZbSXet5DH3MvmVhMrgdV_fOfKOCcuFAw
+
 ## Key Features
 - **Web-based Code and Interface**: Built using Gradio, a Python library for creating web-based machine learning applications, and Google Colab ensuring easy accessibility without any installation requirements.
 - **Multi-variable Support**: Capable of handling functions with multiple variables.
